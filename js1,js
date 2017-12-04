@@ -1,1 +1,2 @@
 function (id){ return document.getElementById(id);}
+$("move").onmouse = function (){alert("abx");}
